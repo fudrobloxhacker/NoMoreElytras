@@ -1,0 +1,6 @@
+name: NoElytras
+version: '1.0-SNAPSHOT'
+main: wtf.pathos.noElytras.NoElytrasPlugin
+api-version: '1.20'
+authors: [ lwes, pathos ]
+description: anticheat pluegin
